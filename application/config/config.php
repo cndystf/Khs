@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 //Ini adalah setting default folder tempat project berada
-$config['base_url'] = 'http://localhost/mvckhs';
+$config['base_url'] = 'http://localhost:8080/mvckhs';
 
 /*
 |--------------------------------------------------------------------------

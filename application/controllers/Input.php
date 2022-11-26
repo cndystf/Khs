@@ -100,3 +100,4 @@ class Input extends CI_Controller
         $data['khs'] = $this->Model_khs->getdata($_SESSION['nim'])->result();
         $this->load->view('printkhs', $data);
     }
+}
